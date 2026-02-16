@@ -29,7 +29,7 @@ Users can securely log in using **Google OAuth**, manage personal bookmarks, and
 
 | Category | Technology |
 |-----------|------------|
-| Frontend | Next.js 14 (App Router) |
+| Frontend | Next.js 16.1.6 (App Router) |
 | Backend | Supabase |
 | Database | PostgreSQL |
 | Authentication | Google OAuth |
